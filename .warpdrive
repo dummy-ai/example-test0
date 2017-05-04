@@ -1,0 +1,8 @@
+pid: 2b449
+project: test0
+user: strin
+volumes:
+    data:
+        cloud: aws
+        bucket: dummy-default
+        key: strin/hi:latest/
